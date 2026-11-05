@@ -1,5 +1,8 @@
 # Amazon-Clone (Frontend)
 
+Deployed Project -- https://amazonclone-theta-six.vercel.app
+
+
 ##Problem Statement-------------------------------------------------------------------------------------------------------
 It is a E-commerce website where all products are available provide a smooth and user-friendly online shopping experience.
 This project aims to "Understand the core front-end features of Amazon" 
